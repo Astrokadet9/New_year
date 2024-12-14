@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    background-color: red;
+    color:aliceblue;
+}   
+
+header a{
+    border: 3px red solid;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+p {
+    text-align: center;
+    background-color: red;
+    color: aliceblue;
+    border: 5px black solid;
+
+}
+
+
+
+div img{
+ border-radius: 20px;
+ width: 200px;
+ height: 200px;
+}
+
+.gallery{
+    display: flex;
+    justify-content: space-around;
+}
+
+.title{
+      text-align: center;
+    color: aliceblue;
+    background-color: red;
+    border: 5px black solid;
+}
